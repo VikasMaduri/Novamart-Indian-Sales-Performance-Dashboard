@@ -171,6 +171,15 @@ indian-sales-performance-dashboard/
 └── README.md                   # Project documentation
 ```
 
+## Screenshots
+
+**Dashboard**
+<img width="1896" height="979" alt="Screenshot 2026-09-26 232017" src="https://github.com/user-attachments/assets/751a6ae2-0f92-4b21-8880-fab0e25b0728" />
+
+**Pivot Charts**
+<img width="1428" height="557" alt="Screenshot 2026-09-26 232056" src="https://github.com/user-attachments/assets/f2a03cb5-638a-4cd3-8a4d-4e0831d2f676" />
+
+
 ---
 
 ## How to Use
